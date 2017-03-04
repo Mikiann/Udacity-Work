@@ -1,7 +1,8 @@
+
 # Udacity-Work
 
 <TextView
-    android:text="Happy Birthday Gabrielle, may all your wishes come true my sister!"
+    android:text="Happy Birthday, wish you all the best!"
     android:background="@android:color/darker_gray"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content" />
@@ -27,5 +28,11 @@
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:textSize="50sp" />
+    
+    <ImageView
+    android:src="@drawable/rocks"
+    android:layout_width="500dp"
+    android:layout_height="650dp"
+    android:scaleType="centerCrop"/>
     
     
