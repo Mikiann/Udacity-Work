@@ -1,5 +1,5 @@
 
-# Udacity-Work
+# Udacity-Android Basics User Interface
 
 <TextView
     android:text="Happy Birthday, wish you all the best!"
